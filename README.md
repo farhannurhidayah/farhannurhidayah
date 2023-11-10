@@ -1,11 +1,11 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Farhan Nurhidayah**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Mahasiswa Teknik Informatika Semester 5** di [Universitas_Prof. Dr. Hamka](https://ft.uhamka.ac.id/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya memiliki ketertarikan menjadi Full Stack Developer kualitas materi iOS dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/academies/600/certificates/1894512).<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Mempelajari Html Css dan Javascript sejak 2021.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/farhan-nurhidayah-9a2760221/)ku ya.
