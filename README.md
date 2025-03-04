@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Farhan Nurhidayah**.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika Semester 5** di [Universitas_Prof. Dr. Hamka](https://ft.uhamka.ac.id/).<br>
+Saya seorang **Mahasiswa Teknik Informatika Semester 8** di [Universitas_Prof. Dr. Hamka](https://ft.uhamka.ac.id/).<br>
 
 Saya memiliki ketertarikan menjadi Full Stack Developer dan Pernah mendapatkan [sertifikasi dari Dicoding](https://www.dicoding.com/academies/600/certificates/1894512).<br>
 
