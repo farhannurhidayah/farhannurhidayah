@@ -12,6 +12,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <a href="https://github.com/farhannurhidayah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farhannurhidayah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br />
+  <br />
+  <br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhannurhidayah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -30,7 +32,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
+<br />
+<br />
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/farhannurhidayah)
