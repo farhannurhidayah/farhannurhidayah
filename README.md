@@ -5,11 +5,6 @@
 
 Selamat datang di GitHub saya! Saya senang mengembangkan backend yang tangguh dan merancang jaringan IT yang aman. Di sini, saya membagikan proyek-proyek mulai dari pembuatan API hingga solusi keamanan jaringan, semua dikerjakan dengan fokus pada kualitas, keamanan, dan kinerja.
 
-Saya seorang **Mahasiswa Teknik Informatika Semester 8** di [Universitas_Prof. Dr. Hamka](https://ft.uhamka.ac.id/).<br>
-
-Saya memiliki ketertarikan menjadi Full Stack Developer dan Pernah mendapatkan [sertifikasi dari Dicoding](https://www.dicoding.com/academies/600/certificates/1894512).<br>
-
-Mempelajari Html Css dan Javascript sejak 2021.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/farhan-nurhidayah-9a2760221/)ku ya.
 ### Github Statistic
@@ -23,10 +18,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Languages and Tools:
 
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.w3schools.com/js//" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="Center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="Center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/js//" target="_blank"><img align="Center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="Center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
