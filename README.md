@@ -1,6 +1,9 @@
-# Halo semua! 
 
-Perkenalkan nama saya **Farhan Nurhidayah**.<br>
+# 👋 Hai, saya Farhan Nurhidayah
+
+## 🚀 Backend Developer | 💻 IT Networking | 🎓 Computer Science Enthusiast
+
+Selamat datang di GitHub saya! Saya senang mengembangkan backend yang tangguh dan merancang jaringan IT yang aman. Di sini, saya membagikan proyek-proyek mulai dari pembuatan API hingga solusi keamanan jaringan, semua dikerjakan dengan fokus pada kualitas, keamanan, dan kinerja.
 
 Saya seorang **Mahasiswa Teknik Informatika Semester 8** di [Universitas_Prof. Dr. Hamka](https://ft.uhamka.ac.id/).<br>
 
